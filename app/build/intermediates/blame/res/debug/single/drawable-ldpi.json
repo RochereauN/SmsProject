@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Utilisateur\\Documents\\GitHub\\SmsProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Utilisateur\\Documents\\GitHub\\SmsProject\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "C:\\Users\\Utilisateur\\AndroidStudioProjects\\SecureMessages\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
         "source": "C:\\Users\\Utilisateur\\AndroidStudioProjects\\SecureMessages\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
